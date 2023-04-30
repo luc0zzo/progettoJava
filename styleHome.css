@@ -198,7 +198,7 @@ body {
   --clip-top: calc(var(--stack-height) * var(--index));
   --clip-bottom: calc(var(--stack-height) * var(--inverse-index));
   clip-path: inset(var(--clip-top) 0 var(--clip-bottom) 0);
-  animation: stack 700ms cubic-bezier(.46,.29,0,1.24) 1 backwards calc(var(--index) * 200ms), glitch 5s ease infinite 0.5s alternate-reverse;
+  animation: stack 700ms cubic-bezier(.46,.29,0,1.24) 1 backwards calc(var(--index) * 200ms), glitch 5s ease infinite 3s alternate-reverse;
 }
 
 .stack span:nth-child(odd) { --glitch-translate: 8px; }
