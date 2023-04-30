@@ -121,26 +121,26 @@ body {
 .container .btn:nth-child(2)::before, /* 2*/
 .container .btn:nth-child(2)::after {
 	background: #7e01a4;
-	box-shadow: 0 0 5px #7e01a4, 0 0 15px #7e01a4, 0 0 30px #7e01a4,
-		0 0 60px #7e01a4;
+	box-shadow: 0 0 5px #d000ff, 0 0 15px #d000ff, 0 0 30px #d000ff,
+		0 0 60px #d000ff;
 }
 .container .btn:nth-child(3)::before, /* 3*/
 .container .btn:nth-child(3)::after {
-	background: #7b00a4e6;
-	box-shadow: 0 0 5px #7b00a4e6, 0 0 15px #7b00a4e6, 0 0 30px #7b00a4e6,
-		0 0 60px #7b00a4e6;
+	background: #d000ff;
+	box-shadow: 0 0 5px #d000ff, 0 0 15px #d000ff, 0 0 30px #d000ff,
+		0 0 60px #d000ff;
 }
 .container .btn:nth-child(4)::before, /* 4 */
 .container .btn:nth-child(4)::after {
 	background: #7b00a4e6;
-	box-shadow: 0 0 5px #7b00a4e6, 0 0 15px #7b00a4e6, 0 0 30px #7b00a4e6,
-		0 0 60px #7b00a4e6;
+	box-shadow: 0 0 5px #d000ff6, 0 0 15px #d000ff, 0 0 30px #d000ff,
+		0 0 60px #d000ff;
 }
 .container .btn:nth-child(5)::before, /* 3*/
 .container .btn:nth-child(5)::after {
-	background: #7b00a4e6;
-	box-shadow: 0 0 5px #7b00a4e6, 0 0 15px #7b00a4e6, 0 0 30px #7b00a4e6,
-		0 0 60px #7b00a4e6;
+	background: #d000ff;
+	box-shadow: 0 0 5px #d000ff, 0 0 15px #d000ff, 0 0 30px #d000ff,
+		0 0 60px #d000ff;
 }
 /* titolo */
 * {
