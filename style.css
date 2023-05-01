@@ -11,9 +11,10 @@ body{
 h1{
 size: 5px;
 border: #ffffff 2px;
+color:white;
 }
 h2{
-color: rgb(255, 254, 254);
+color:white;
 }
 table {
     border: 1px solid white;
@@ -37,6 +38,7 @@ table {
     box-shadow:5px 4px 3px #626262;
     border:3px ridge rgb(85, 82, 82); vertical-align:middle;
     text-align:center;
+      
   }
   .titoloPunti{
     
@@ -63,5 +65,8 @@ border:3px solid ;color: #ffffffbc;
 
 }
 p{
+    color:white;
+}
+h3{
     color:white;
 }
