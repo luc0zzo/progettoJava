@@ -185,6 +185,7 @@ body {
 	margin: 0 5px;
 	position: relative;
 	color: #fff;
+ user-select:none;
   }
   
   /* Aggiungiamo un'animazione */
